@@ -1,11 +1,11 @@
 ---
 layout: default
-title: QI2026 Satellite Workshop on Practical Quantum Computing
+title: QI2026 Satellite Workshop on Frontiers of Practical Quantum Computing (FPQC)
 ---
 
 ## About the Workshop
 
-The *QI2026 Satellite Workshop on Practical Quantum Computing* aims to foster in-depth discussions on realizing useful quantum computing in practice.
+The *QI2026 Satellite Workshop on Frontiers of Practical Quantum Computing (FPQC)* aims to foster in-depth discussions on realizing useful quantum computing in practice.
 
 The workshop welcomes researchers working on algorithm design, quantum error correction, compilation techniques, and software tools that push quantum computing closer to real-world applications. With invited talks, contributed talks, and a poster session, we aim to encourage broad participation and cross-disciplinary exchange.
 

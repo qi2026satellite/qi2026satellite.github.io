@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QI2026 Satellite Workshop on Practical Quantum Computing
+title: QI2026 Satellite Workshop on Frontiers of Practical Quantum Computing (FPQC)
 description: Program
 ---
 
