@@ -14,7 +14,7 @@ We also plan a hardware tour or informal discussion session to promote further c
 ## Date and Location
 
 - **Date:** Tentatively planned for December 14-15, 2026.
-- **Location:** To be announced. The workshop is planned in Osaka.
+- **Location:** Tentatively planned at Nambu Yoichiro Hall, Toyonaka Campus, Osaka University.
 - Detailed access information can be found here: [Official English Map](https://www.es.osaka-u.ac.jp/en/accessmap/index.html) / [hand-made pdf file](Access to the Venue.pdf)
 
 ## Program
