@@ -13,19 +13,19 @@ We also plan a hardware tour or informal discussion session to promote further c
 
 ## Date and Location
 
-- **Date:** Tentatively planned for December 14-15, 2026.
-- **Location:** Tentatively planned at Nambu Yoichiro Hall, Toyonaka Campus, Osaka University.
+- **Date:** December 14 (Mon) and 15 (Tue), 2026
+- **Location:** Nambu Yoichiro Hall, Toyonaka Campus, The University of Osaka (tentative)
 - Detailed access information can be found here: [Official English Map](https://www.es.osaka-u.ac.jp/en/accessmap/index.html) / [hand-made pdf file](Access to the Venue.pdf)
 
 ## Program
 
-The program is under preparation and is expected to include:
+A tentative program is now available. The program includes:
 - **Invited Talks**
 - **Contributed Talks**
 - **Poster Session**
 - **Hardware Tour / Free Discussion**
 
-**Program details:** [See here for program](program.html)
+**Program details:** [See here for the tentative program](program.html)
 
 ## Registration
 
@@ -37,7 +37,11 @@ The program is under preparation and is expected to include:
 
 ## Invited Speakers
 
-To be announced.
+- Mauritz Kop, Stanford Center for Responsible Quantum Technology, Stanford University, USA
+- André Schrottenloher, Inria, France
+- Adam Zalcman, Google, USA
+
+(Alphabetical order. More speakers to be announced.)
 
 
 ## Contact
