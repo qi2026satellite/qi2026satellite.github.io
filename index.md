@@ -37,9 +37,10 @@ A tentative program is now available. The program includes:
 
 ## Invited Speakers
 
-- Mauritz Kop, Stanford Center for Responsible Quantum Technology, Stanford University, USA
-- André Schrottenloher, Inria, France
 - Adam Zalcman, Google, USA
+- André Schrottenloher, Inria, France
+- Dmitri Maslov, IonQ, USA
+- Mauritz Kop, Stanford Center for Responsible Quantum Technology, Stanford University, USA
 
 (Alphabetical order. More speakers to be announced.)
 

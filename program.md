@@ -17,7 +17,7 @@ description: Program
 |                   | 13:00 - 13:45 | Mauritz Kop (invited talk)          | TBA *(Session: Quantum ELSI and Responsible Quantum Innovation)*                                                | TBA   |
 |                   | 13:45 - 14:30 | Speakers TBA                        | Quantum ELSI talks from The University of Osaka *(Session: Quantum ELSI and Responsible Quantum Innovation)*     | TBA   |
 |                   | 14:30 - 15:00 | Break                               |                                                                                                                 |       |
-|                   | 15:00 - 15:45 | TBA                                 | *Session: Quantum Simulation and Quantum Algorithms*                                                            | TBA   |
+|                   | 15:00 - 15:45 | Dmitri Maslov (invited talk)        | TBA *(Session: Quantum Simulation and Quantum Algorithms)*                                                       | TBA   |
 |                   | 15:45 - 16:30 | TBA                                 | *Session: Quantum Simulation and Quantum Algorithms*                                                            | TBA   |
 |                   | 16:30 - 16:45 | Break                               |                                                                                                                 |       |
 |                   | 16:45 - 17:45 | Poster Session                      |                                                                                                                 |       |
