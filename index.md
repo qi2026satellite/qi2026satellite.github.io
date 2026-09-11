@@ -43,7 +43,7 @@ A tentative program is now available. The program includes:
 - Mauritz Kop, Stanford Center for Responsible Quantum Technology, Stanford University, USA
 - Noboru Kunihiro, University of Tsukuba, Japan
 
-(Alphabetical order. More speakers to be announced.)
+(Alphabetical order.)
 
 
 ## Contact
