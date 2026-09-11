@@ -30,8 +30,8 @@ description: Program
 |                   | 11:30 - 13:00 | Lunch Break                         |                                                                                                                 |       |
 |                   | 13:00 - 13:45 | Mauritz Kop (invited talk)          | TBA *(Session: Quantum ELSI and Responsible Quantum Innovation)*                                                | TBA   |
 |                   | 13:45 - 14:05 | Speaker TBA                         | Quantum ELSI talk from The University of Osaka *(Session: Quantum ELSI and Responsible Quantum Innovation)*      | TBA   |
-|                   | 14:05 - 14:30 | Speaker TBA                         | Quantum ELSI talk from The University of Osaka *(Session: Quantum ELSI and Responsible Quantum Innovation)*      | TBA   |
-|                   | 14:30 - 15:00 | Break                               |                                                                                                                 |       |
+|                   | 14:05 - 14:25 | Speaker TBA                         | Quantum ELSI talk from The University of Osaka *(Session: Quantum ELSI and Responsible Quantum Innovation)*      | TBA   |
+|                   | 14:25 - 15:00 | Break                               |                                                                                                                 |       |
 |                   | 15:00 - 16:00 | Contributed talks (TBA)             |                                                                                                                 | TBA   |
 |                   | 16:00 -       | Hardware Tour & Free Discussion     |                                                                                                                 |       |
 
