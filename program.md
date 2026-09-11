@@ -22,17 +22,15 @@ description: Program
 | 10:35 - 10:45 | Break                        |                                                                                                             |       |
 | 10:45 - 11:30 | Dmitri Maslov (invited talk) | TBA *(Session: Quantum Simulation and Quantum Algorithms)*                                                 | TBA   |
 | 11:30 - 13:00 | Lunch Break                  |                                                                                                             |       |
-| 13:00 - 13:20 | Contributed talk (TBA)       | *Session: Quantum Machine Learning*                                                                         | TBA   |
-| 13:20 - 13:40 | Contributed talk (TBA)       | *Session: Quantum Machine Learning*                                                                         | TBA   |
-| 13:40 - 13:45 | Transition                   |                                                                                                             |       |
-| 13:45 - 14:05 | Contributed talk (TBA)       | *Session: Quantum Machine Learning*                                                                         | TBA   |
-| 14:05 - 14:25 | Contributed talk (TBA)       | *Session: Quantum Machine Learning*                                                                         | TBA   |
-| 14:25 - 14:30 | Transition                   |                                                                                                             |       |
-| 14:30 - 15:00 | Break                        |                                                                                                             |       |
-| 15:00 - 15:20 | Contributed talk (TBA)       | *Session: Quantum Simulation and Quantum Algorithms*                                                       | TBA   |
-| 15:20 - 15:40 | Contributed talk (TBA)       | *Session: Quantum Simulation and Quantum Algorithms*                                                       | TBA   |
-| 15:40 - 15:45 | Transition                   |                                                                                                             |       |
-| 15:45 - 16:00 | Break                        |                                                                                                             |       |
+| 13:00 - 13:20 | Contributed talk (TBA)       | *Session 1: Quantum Machine Learning*                                                                      | TBA   |
+| 13:20 - 13:40 | Contributed talk (TBA)       | *Session 1: Quantum Machine Learning*                                                                      | TBA   |
+| 13:40 - 14:00 | Contributed talk (TBA)       | *Session 1: Quantum Machine Learning*                                                                      | TBA   |
+| 14:00 - 14:20 | Contributed talk (TBA)       | *Session 2: Quantum Machine Learning*                                                                      | TBA   |
+| 14:20 - 14:40 | Contributed talk (TBA)       | *Session 2: Quantum Machine Learning*                                                                      | TBA   |
+| 14:40 - 15:00 | Contributed talk (TBA)       | *Session 2: Quantum Machine Learning*                                                                      | TBA   |
+| 15:00 - 15:20 | Contributed talk (TBA)       | *Session 3: Quantum Simulation and Quantum Algorithms*                                                    | TBA   |
+| 15:20 - 15:40 | Contributed talk (TBA)       | *Session 3: Quantum Simulation and Quantum Algorithms*                                                    | TBA   |
+| 15:40 - 16:00 | Contributed talk (TBA)       | *Session 3: Quantum Simulation and Quantum Algorithms*                                                    | TBA   |
 | 16:00 - 17:00 | Poster Session               |                                                                                                             |       |
 | 17:00 -       | Reception (to be confirmed)  |                                                                                                             |       |
 
