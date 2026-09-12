@@ -18,7 +18,7 @@ description: Program
 | 11:10 - 11:30 | Contributed talk (TBA)       |                                                                                                             | TBA   |
 | 11:30 - 13:00 | Lunch Break                  |                                                                                                             |       |
 | 13:00 - 13:40 | Yuxuan Du (invited talk)     | TBA                                                                                                         | TBA   |
-| 13:40 - 14:00 | Yiming Lu                    | AI-enhanced digital quantum simulation                                                                      | TBA   |
+| 13:40 - 14:00 | Yiming Lu                    | TBA                                                                                                         | TBA   |
 | 14:00 - 14:20 | Contributed talk (TBA)       |                                                                                                             | TBA   |
 | 14:20 - 14:30 | Break                        |                                                                                                             |       |
 | 14:30 - 14:50 | Contributed talk (TBA)       |                                                                                                             | TBA   |
