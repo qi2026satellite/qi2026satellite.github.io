@@ -19,18 +19,14 @@ description: Program
 | 11:30 - 13:00 | Lunch Break                  |                                                                                                             |       |
 | 13:00 - 13:40 | Yuxuan Du (invited talk)     | TBA                                                                                                         | TBA   |
 | 13:40 - 14:00 | Yiming Lu                    | AI-enhanced digital quantum simulation                                                                      | TBA   |
-| 14:00 - 14:20 | Contributed talk (TBA)       |                                                                                                             | TBA   |
+| 14:00 - 14:20 | Invited talk (TBA)           | Quantum AI                                                                                                  | TBA   |
 | 14:20 - 14:40 | Contributed talk (TBA)       |                                                                                                             | TBA   |
 | 14:40 - 15:00 | Contributed talk (TBA)       |                                                                                                             | TBA   |
 | 15:00 - 15:10 | Break                        |                                                                                                             |       |
 | 15:10 - 15:30 | Contributed talk (TBA)       |                                                                                                             | TBA   |
 | 15:30 - 15:50 | Contributed talk (TBA)       |                                                                                                             | TBA   |
-| 15:50 - 16:10 | Contributed talk (TBA)       |                                                                                                             | TBA   |
-| 16:10 - 16:20 | Break                        |                                                                                                             |       |
-| 16:20 - 16:40 | Contributed talk (TBA)       |                                                                                                             | TBA   |
-| 16:40 - 17:00 | Contributed talk (TBA)       |                                                                                                             | TBA   |
-| 17:00 - 18:00 | Poster Session               |                                                                                                             |       |
-| 18:00 -       | Reception (to be confirmed)  |                                                                                                             |       |
+| 16:00 - 17:00 | Poster Session               |                                                                                                             |       |
+| 17:00 -       | Reception (to be confirmed)  |                                                                                                             |       |
 
 ### December 15 (Tue)
 
