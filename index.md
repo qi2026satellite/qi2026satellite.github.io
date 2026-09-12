@@ -43,7 +43,6 @@ A tentative program is now available. The program includes:
 - Dmitri Maslov, IonQ, USA
 - Mauritz Kop, Stanford Center for Responsible Quantum Technology, Stanford University, USA
 - Noboru Kunihiro, University of Tsukuba, Japan
-- Yuxuan Du, Nanyang Technological University, Singapore
 
 (Alphabetical order.)
 
