@@ -21,13 +21,14 @@ description: Program
 | 13:00 - 13:45 | Dmitri Maslov (invited talk) | TBA *(Session: Quantum Simulation and Quantum Algorithms)*                                                 | TBA   |
 | 13:45 - 14:05 | Contributed talk (TBA)       |                                                                                                             | TBA   |
 | 14:05 - 14:25 | Contributed talk (TBA)       |                                                                                                             | TBA   |
-| 14:25 - 14:45 | Contributed talk (TBA)       |                                                                                                             | TBA   |
-| 14:45 - 14:55 | Break                        |                                                                                                             |       |
+| 14:25 - 14:35 | Break                        |                                                                                                             |       |
+| 14:35 - 14:55 | Contributed talk (TBA)       |                                                                                                             | TBA   |
 | 14:55 - 15:15 | Contributed talk (TBA)       |                                                                                                             | TBA   |
 | 15:15 - 15:35 | Contributed talk (TBA)       |                                                                                                             | TBA   |
-| 15:35 - 15:55 | Contributed talk (TBA)       |                                                                                                             | TBA   |
-| 16:00 - 17:00 | Poster Session               |                                                                                                             |       |
-| 17:00 -       | Reception (to be confirmed)  |                                                                                                             |       |
+| 15:35 - 15:45 | Break                        |                                                                                                             |       |
+| 15:45 - 16:05 | Contributed talk (TBA)       |                                                                                                             | TBA   |
+| 16:05 - 17:05 | Poster Session               |                                                                                                             |       |
+| 17:05 -       | Reception (to be confirmed)  |                                                                                                             |       |
 
 ### December 15 (Tue)
 
