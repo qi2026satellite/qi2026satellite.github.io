@@ -13,26 +13,22 @@ description: Program
 | Time          | Speaker                      | Title                                                                                                       | Chair |
 |---------------|------------------------------|-------------------------------------------------------------------------------------------------------------|-------|
 | 10:00 - 10:05 | Opening                      |                                                                                                             |       |
-| 10:05 - 10:25 | Contributed talk (TBA)       | *Session: Fault-Tolerant Quantum Computing — Architecture and Error Correction*                            | TBA   |
-| 10:25 - 10:45 | Contributed talk (TBA)       | *Session: Fault-Tolerant Quantum Computing — Architecture and Error Correction*                            | TBA   |
-| 10:45 - 11:05 | Contributed talk (TBA)       | *Session: Fault-Tolerant Quantum Computing — Architecture and Error Correction*                            | TBA   |
-| 11:05 - 11:25 | Contributed talk (TBA)       | *Session: Fault-Tolerant Quantum Computing — Architecture and Error Correction*                            | TBA   |
+| 10:05 - 10:25 | Contributed talk (TBA)       |                                                                                                             | TBA   |
+| 10:25 - 10:45 | Contributed talk (TBA)       |                                                                                                             | TBA   |
+| 10:45 - 11:05 | Contributed talk (TBA)       |                                                                                                             | TBA   |
+| 11:05 - 11:25 | Contributed talk (TBA)       |                                                                                                             | TBA   |
 | 11:25 - 11:35 | Break                        |                                                                                                             |       |
 | 11:35 - 12:20 | Dmitri Maslov (invited talk) | TBA *(Session: Quantum Simulation and Quantum Algorithms)*                                                 | TBA   |
 | 12:20 - 13:50 | Lunch Break                  |                                                                                                             |       |
-| 13:50 - 14:10 | Contributed talk (TBA)       | *Session 1: Quantum Simulation and Quantum Algorithms*                                                    | TBA   |
-| 14:10 - 14:30 | Contributed talk (TBA)       | *Session 1: Quantum Simulation and Quantum Algorithms*                                                    | TBA   |
-| 14:30 - 14:50 | Contributed talk (TBA)       | *Session 1: Quantum Simulation and Quantum Algorithms*                                                    | TBA   |
+| 13:50 - 14:10 | Contributed talk (TBA)       |                                                                                                             | TBA   |
+| 14:10 - 14:30 | Contributed talk (TBA)       |                                                                                                             | TBA   |
+| 14:30 - 14:50 | Contributed talk (TBA)       |                                                                                                             | TBA   |
 | 14:50 - 15:00 | Break                        |                                                                                                             |       |
-| 15:00 - 15:20 | Contributed talk (TBA)       | *Session 2: Quantum Machine Learning*                                                                      | TBA   |
-| 15:20 - 15:40 | Contributed talk (TBA)       | *Session 2: Quantum Machine Learning*                                                                      | TBA   |
-| 15:40 - 16:00 | Contributed talk (TBA)       | *Session 2: Quantum Machine Learning*                                                                      | TBA   |
-| 16:00 - 16:10 | Break                        |                                                                                                             |       |
-| 16:10 - 16:30 | Contributed talk (TBA)       | *Session 3: Quantum Machine Learning*                                                                      | TBA   |
-| 16:30 - 16:50 | Contributed talk (TBA)       | *Session 3: Quantum Machine Learning*                                                                      | TBA   |
-| 16:50 - 17:10 | Contributed talk (TBA)       | *Session 3: Quantum Machine Learning*                                                                      | TBA   |
-| 17:10 - 18:10 | Poster Session               |                                                                                                             |       |
-| 18:10 -       | Reception (to be confirmed)  |                                                                                                             |       |
+| 15:00 - 15:20 | Contributed talk (TBA)       |                                                                                                             | TBA   |
+| 15:20 - 15:40 | Contributed talk (TBA)       |                                                                                                             | TBA   |
+| 15:40 - 16:00 | Contributed talk (TBA)       |                                                                                                             | TBA   |
+| 16:00 - 17:00 | Poster Session               |                                                                                                             |       |
+| 17:00 -       | Reception (to be confirmed)  |                                                                                                             |       |
 
 ### December 15 (Tue)
 
