@@ -20,9 +20,9 @@ description: Program
 | 13:00 - 13:40 | Yuxuan Du (invited talk)     | TBA                                                                                                         | TBA   |
 | 13:40 - 14:00 | Yiming Lu                    | AI-enhanced digital quantum simulation                                                                      | TBA   |
 | 14:00 - 14:20 | Invited talk (TBA)           | Quantum AI                                                                                                  | TBA   |
-| 14:20 - 14:40 | Contributed talk (TBA)       |                                                                                                             | TBA   |
-| 14:40 - 15:00 | Contributed talk (TBA)       |                                                                                                             | TBA   |
-| 15:00 - 15:10 | Break                        |                                                                                                             |       |
+| 14:20 - 14:30 | Break                        |                                                                                                             |       |
+| 14:30 - 14:50 | Contributed talk (TBA)       |                                                                                                             | TBA   |
+| 14:50 - 15:10 | Contributed talk (TBA)       |                                                                                                             | TBA   |
 | 15:10 - 15:30 | Contributed talk (TBA)       |                                                                                                             | TBA   |
 | 15:30 - 15:50 | Contributed talk (TBA)       |                                                                                                             | TBA   |
 | 16:00 - 17:00 | Poster Session               |                                                                                                             |       |
