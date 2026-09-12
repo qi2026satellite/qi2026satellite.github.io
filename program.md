@@ -17,7 +17,7 @@ description: Program
 | 10:50 - 11:10 | Contributed talk (TBA)       |                                                                                                             | TBA   |
 | 11:10 - 11:30 | Contributed talk (TBA)       |                                                                                                             | TBA   |
 | 11:30 - 13:00 | Lunch Break                  |                                                                                                             |       |
-| 13:00 - 13:40 | Yuxuan Du (invited talk)     | JST–A\*STAR Project Session                                                                                | TBA   |
+| 13:00 - 13:40 | Yuxuan Du                    | JST–A\*STAR Project Session                                                                                | TBA   |
 | 13:40 - 14:00 | Yiming Lu                    | JST–A\*STAR Project Session                                                                                | TBA   |
 | 14:00 - 14:20 | Contributed talk (TBA)       |                                                                                                             | TBA   |
 | 14:20 - 14:30 | Break                        |                                                                                                             |       |
