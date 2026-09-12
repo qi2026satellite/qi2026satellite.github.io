@@ -31,7 +31,8 @@ A tentative program is now available. The program includes:
 
 - **Registration form:** To be announced.
 - **Registration deadline for those attending the networking event:** To be announced.
-- **Registration deadline for those who wish to give a contributed talk:** To be announced.
+- **Contributed talk submission form:** [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSd7smtmEc9U9Ruc0OxJiXVPW_CTmVYYlD6Dnufzw7jj6_8yxw/viewform)
+- **Contributed talk submission deadline:** November 30, 2026, 23:59 JST.
 - Registration fee is free.
 - Details about the networking event will be announced later.
 
