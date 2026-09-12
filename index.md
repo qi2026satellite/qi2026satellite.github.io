@@ -27,10 +27,6 @@ A tentative program is now available. The program includes:
 
 **Program details:** [See here for the tentative program](program.html)
 
-## JST–A\*STAR Project Session
-
-The December 14 program includes a session organized in connection with the [JST–A\*STAR Japan–Singapore Joint Call for Proposals on Quantum 2025](https://www.jst.go.jp/pr/info/info1830/pdf/info1830_en.pdf), **Project No. 6: “Artificial Intelligence by and for Quantum Computers.”** The Japan-side PI is Kosuke Mitarai (The University of Osaka), and the Singapore-side PI is Yuxuan Du (Nanyang Technological University).
-
 ## Registration
 
 - **Registration form:** To be announced.
@@ -72,5 +68,6 @@ This workshop is co-organized and sponsored by the following projects:
 - **JST ASPIRE JPMJAP2319**
 - **JST COI-NEXT JPMJPF2014**
 - **JST Moonshot Goal 6**
+- **JST–A\*STAR Japan–Singapore Joint Call for Proposals on Quantum 2025, [Project No. 6: “Artificial Intelligence by and for Quantum Computers”](https://www.jst.go.jp/pr/info/info1830/pdf/info1830_en.pdf)**
 
 We look forward to seeing you at the workshop!
