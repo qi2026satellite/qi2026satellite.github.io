@@ -17,16 +17,15 @@ description: Program
 | 10:25 - 10:45 | Contributed talk (TBA)       |                                                                                                             | TBA   |
 | 10:45 - 11:05 | Contributed talk (TBA)       |                                                                                                             | TBA   |
 | 11:05 - 11:25 | Contributed talk (TBA)       |                                                                                                             | TBA   |
-| 11:25 - 11:35 | Break                        |                                                                                                             |       |
-| 11:35 - 12:20 | Dmitri Maslov (invited talk) | TBA *(Session: Quantum Simulation and Quantum Algorithms)*                                                 | TBA   |
-| 12:20 - 13:50 | Lunch Break                  |                                                                                                             |       |
-| 13:50 - 14:10 | Contributed talk (TBA)       |                                                                                                             | TBA   |
-| 14:10 - 14:30 | Contributed talk (TBA)       |                                                                                                             | TBA   |
-| 14:30 - 14:50 | Contributed talk (TBA)       |                                                                                                             | TBA   |
-| 14:50 - 15:00 | Break                        |                                                                                                             |       |
-| 15:00 - 15:20 | Contributed talk (TBA)       |                                                                                                             | TBA   |
-| 15:20 - 15:40 | Contributed talk (TBA)       |                                                                                                             | TBA   |
-| 15:40 - 16:00 | Contributed talk (TBA)       |                                                                                                             | TBA   |
+| 11:30 - 13:00 | Lunch Break                  |                                                                                                             |       |
+| 13:00 - 13:45 | Dmitri Maslov (invited talk) | TBA *(Session: Quantum Simulation and Quantum Algorithms)*                                                 | TBA   |
+| 13:45 - 14:05 | Contributed talk (TBA)       |                                                                                                             | TBA   |
+| 14:05 - 14:25 | Contributed talk (TBA)       |                                                                                                             | TBA   |
+| 14:25 - 14:45 | Contributed talk (TBA)       |                                                                                                             | TBA   |
+| 14:45 - 14:55 | Break                        |                                                                                                             |       |
+| 14:55 - 15:15 | Contributed talk (TBA)       |                                                                                                             | TBA   |
+| 15:15 - 15:35 | Contributed talk (TBA)       |                                                                                                             | TBA   |
+| 15:35 - 15:55 | Contributed talk (TBA)       |                                                                                                             | TBA   |
 | 16:00 - 17:00 | Poster Session               |                                                                                                             |       |
 | 17:00 -       | Reception (to be confirmed)  |                                                                                                             |       |
 
