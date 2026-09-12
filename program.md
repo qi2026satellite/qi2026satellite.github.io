@@ -25,14 +25,16 @@ description: Program
 | 13:00 - 13:20 | Contributed talk (TBA)       | *Session 1: Quantum Machine Learning*                                                                      | TBA   |
 | 13:20 - 13:40 | Contributed talk (TBA)       | *Session 1: Quantum Machine Learning*                                                                      | TBA   |
 | 13:40 - 14:00 | Contributed talk (TBA)       | *Session 1: Quantum Machine Learning*                                                                      | TBA   |
-| 14:00 - 14:20 | Contributed talk (TBA)       | *Session 2: Quantum Machine Learning*                                                                      | TBA   |
-| 14:20 - 14:40 | Contributed talk (TBA)       | *Session 2: Quantum Machine Learning*                                                                      | TBA   |
-| 14:40 - 15:00 | Contributed talk (TBA)       | *Session 2: Quantum Machine Learning*                                                                      | TBA   |
-| 15:00 - 15:20 | Contributed talk (TBA)       | *Session 3: Quantum Simulation and Quantum Algorithms*                                                    | TBA   |
+| 14:00 - 14:10 | Break                        |                                                                                                             |       |
+| 14:10 - 14:30 | Contributed talk (TBA)       | *Session 2: Quantum Machine Learning*                                                                      | TBA   |
+| 14:30 - 14:50 | Contributed talk (TBA)       | *Session 2: Quantum Machine Learning*                                                                      | TBA   |
+| 14:50 - 15:10 | Contributed talk (TBA)       | *Session 2: Quantum Machine Learning*                                                                      | TBA   |
+| 15:10 - 15:20 | Break                        |                                                                                                             |       |
 | 15:20 - 15:40 | Contributed talk (TBA)       | *Session 3: Quantum Simulation and Quantum Algorithms*                                                    | TBA   |
 | 15:40 - 16:00 | Contributed talk (TBA)       | *Session 3: Quantum Simulation and Quantum Algorithms*                                                    | TBA   |
-| 16:00 - 17:00 | Poster Session               |                                                                                                             |       |
-| 17:00 -       | Reception (to be confirmed)  |                                                                                                             |       |
+| 16:00 - 16:20 | Contributed talk (TBA)       | *Session 3: Quantum Simulation and Quantum Algorithms*                                                    | TBA   |
+| 16:20 - 17:20 | Poster Session               |                                                                                                             |       |
+| 17:20 -       | Reception (to be confirmed)  |                                                                                                             |       |
 
 ### December 15 (Tue)
 
