@@ -67,7 +67,7 @@ This workshop is co-organized and sponsored by the following projects:
 - **MEXT Q-LEAP QuAI Flagship Project JPMXS0120319794**
 - **JST ASPIRE JPMJAP2319**
 - **JST COI-NEXT JPMJPF2014**
-- **JST Moonshot Goal 6**
+- **[JST Moonshot Goal 6 JPMJMS256J](https://www.jst.go.jp/moonshot/en/program/goal6/6J_mitarai.html)**
 - **JST–A\*STAR Japan–Singapore Joint Call for Proposals on Quantum 2025, [Project No. 6: “Artificial Intelligence by and for Quantum Computers”](https://www.jst.go.jp/pr/info/info1830/pdf/info1830_en.pdf)**
 
 We look forward to seeing you at the workshop!
