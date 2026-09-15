@@ -14,8 +14,8 @@ We also plan a hardware tour or informal discussion session to promote further c
 ## Date and Location
 
 - **Date:** December 14 (Mon) and 15 (Tue), 2026
-- **Location:** Nambu Yoichiro Hall, Toyonaka Campus, The University of Osaka (tentative)
-- Detailed access information can be found here: [Official English Map](https://www.es.osaka-u.ac.jp/en/accessmap/index.html) / [hand-made pdf file](Access to the Venue.pdf)
+- **Location:** Nambu Yoichiro Hall, Toyonaka Campus, The University of Osaka
+- Detailed access information can be found here: [Official English Map](https://www.es.osaka-u.ac.jp/en/accessmap/index.html)
 
 ## Program
 
