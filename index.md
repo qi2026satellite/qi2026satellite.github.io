@@ -30,6 +30,7 @@ A tentative program is now available. The program includes:
 ## Registration
 
 - **Registration form:** [Google Form](https://forms.gle/m4BUjjMVmWW815R36)
+- Invited speakers do not need to register.
 - **Registration deadline for those attending the networking event:** November 30, 2026, 23:59 JST.
 - If you do not plan to attend the networking event, you may register at any time, including on the day of the workshop.
 - **Contributed talk submission form:** [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSd7smtmEc9U9Ruc0OxJiXVPW_CTmVYYlD6Dnufzw7jj6_8yxw/viewform)
