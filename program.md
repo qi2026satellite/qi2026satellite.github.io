@@ -14,7 +14,7 @@ description: Program
 |---------------|------------------------------|-------------------------------------------------------------------------------------------------------------|-------|
 | 10:00 - 10:05 | Opening                      |                                                                                                             |       |
 | 10:05 - 10:50 | Dmitri Maslov (invited talk) | TBA                                                                                                         | TBA   |
-| 10:50 - 11:10 | Contributed talk (TBA)       |                                                                                                             | TBA   |
+| 10:50 - 11:10 | Naoki Negishi (invited talk) | TBA                                                                                                         | TBA   |
 | 11:10 - 11:30 | Contributed talk (TBA)       |                                                                                                             | TBA   |
 | 11:30 - 13:00 | Lunch Break                  |                                                                                                             |       |
 | 13:00 - 13:40 | Yuxuan Du                    | JST–A\*STAR Project Session                                                                                | TBA   |

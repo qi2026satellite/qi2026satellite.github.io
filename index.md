@@ -43,6 +43,7 @@ A tentative program is now available. The program includes:
 - André Schrottenloher, Inria, France
 - Dmitri Maslov, IonQ, USA
 - Mauritz Kop, Stanford Center for Responsible Quantum Technology, Stanford University, USA
+- Naoki Negishi, University of Rome Tor Vergata and INFN, Italy
 - Noboru Kunihiro, University of Tsukuba, Japan
 
 (Alphabetical order.)
