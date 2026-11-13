@@ -35,7 +35,7 @@ description: Program
 | 09:00 - 09:45 | Adam Zalcman (invited talk)         | Securing Elliptic Curve Cryptocurrencies against Quantum Vulnerabilities: Resource Estimates and Mitigations | TBA |
 | 09:45 - 10:30 | André Schrottenloher (invited talk) | TBA                                                                                                               | TBA   |
 | 10:30 - 10:40 | Break                               |                                                                                                             |       |
-| 10:40 - 11:25 | Noboru Kunihiro (invited talk)      | TBA                                                                                                         | TBA   |
+| 10:40 - 11:25 | Noboru Kunihiro (invited talk)      | Quantum Cryptanalysis of Public-Key Cryptography and the Transition to PQC                                    | TBA   |
 | 11:30 - 13:00 | Lunch Break                         |                                                                                                             |       |
 | 13:00 - 13:45 | Mauritz Kop (invited talk)          | TBA                                                                                                         | TBA   |
 | 13:45 - 14:00 | Speaker TBA                         | Quantum ELSI talk from The University of Osaka                                          | TBA   |
